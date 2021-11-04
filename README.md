@@ -1,7 +1,7 @@
 # interview-eng-i
 
 ## Introduction
-Project Tiro is a simple web application built to help developer candidates demonstrate practical skills with
+This is a simple web application built to help developer candidates demonstrate practical skills with
 
 * [React](https://reactjs.org/)
 * [axios](https://www.npmjs.com/package/axios)
