@@ -1,5 +1,15 @@
 # interview-eng-i
 
+## Introduction
+Project Tiro is a simple web application built to help developer candidates demonstrate practical skills with
+
+* [React](https://reactjs.org/)
+* [axios](https://www.npmjs.com/package/axios)
+* [MySQL](https://www.mysql.com/)
+* [React Responsive Carousel](https://www.npmjs.com/package/react-responsive-carousel)
+* [Gitpod](https://www.gitpod.io/)
+* [RestAPI] (https://apodapi.herokuapp.com/search/?search_query=pluto&number=5)
+
 ## Getting Started
 In order to run this application and complete the specified tasks, please complete the following setup tasks:
 
