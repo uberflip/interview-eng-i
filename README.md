@@ -37,11 +37,11 @@ You're now ready to begin your tasks!
 Sharing running workspaces makes it possible to quickly look at a workspace together with a (remote) colleague [Gitpod Sharing Workspace](https://www.gitpod.io/docs/sharing-and-collaboration#sharing-running-workspaces).
 To share your workspace navigate to the workspaces page:
 
-### 1. Move your mouse over the workspace you want to share (change the filter to All if you don’t see your workspace.
+#### 1. Move your mouse over the workspace you want to share (change the filter to All if you don’t see your workspace.
 
-### 2. Click the three dots menu to the right of the highlighted workspace.
+#### 2. Click the three dots menu to the right of the highlighted workspace.
 
-### 3. Click Share
+#### 3. Click Share
 
 This marks your workspace as shared. When you open it, you can copy & share its URL.
 
