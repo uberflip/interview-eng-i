@@ -33,7 +33,19 @@ Once the application's dependencies are installed, the start script will execute
 
 You're now ready to begin your tasks!
 
-## Tasks
+## How to Share Workspaces
+Sharing running workspaces makes it possible to quickly look at a workspace together with a (remote) colleague [Gitpod Sharing Workspace](https://www.gitpod.io/docs/sharing-and-collaboration#sharing-running-workspaces).
+To share your workspace navigate to the workspaces page:
+
+### 1. Move your mouse over the workspace you want to share (change the filter to All if you don’t see your workspace.
+
+### 2. Click the three dots menu to the right of the highlighted workspace.
+
+### 3. Click Share
+
+This marks your workspace as shared. When you open it, you can copy & share its URL.
+
+## API Tasks
 ### 1. Fetch and render images in the `ImageCarousel` component
 Using the supplied API endpoint listed in the resources section below, fetch and display the results in the 'ImageCarousel' component. This component and its images should be visible on the homepage.
 
@@ -44,11 +56,23 @@ Add props to the `ImageCarousel` component that controls the `showThumbs` and `s
 
 In your use of the `ImageCarousel` component for Task 1, make sure the thumbnails are not visible, but the indicators are visible.
 
-### 3. Style the `ImageCarousel` component
-Using the mockup included in the root level of the project, position and size the `ImageCarousel` component on the page, with considerations for how responsive it is on smaller screen sizes.
-
 ### 4. Add a loading indicator
 While waiting for the results from the image API to be returned and rendered, display a loading indicator. A spinner image can be found under the `public` directory. The spinner should be displayed at 100% of its size in the middle of the page.
+
+## Frontend Task
+### 1. Style the `ImageCarousel` component
+Using the mockup included in the root level of the project, position and size the `ImageCarousel` component on the page, with considerations for how responsive it is on smaller screen sizes.
+
+### 2. Add Navigation bar
+Make the navigation bar look similar to the mockup.jpg
+
+### 4. Response name and description 
+Make sure the names and description of the exact instead of {name} or {description}
+
+### 5. Toggle functionality 
+Make the toggle work, the right arrow shoud go to the next image while its updates the number indicating which slide show the user is currently viewing and the left arrow should do the opposite of the right arrow
+
+
 
 ## Resources
 - API Endpoint: `https://apodapi.herokuapp.com/search/?search_query=pluto&number=5`
