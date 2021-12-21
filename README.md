@@ -69,7 +69,7 @@ Make sure the names and description of the image is displayed in your solution a
 ### 5. Arrow keys functionality 
 Make the toggle work, the right arrow shoud go to the next image while its updates the number indicating which slide show the user is currently viewing and the left arrow should do the opposite of the right arrow
 
-### 5. Add a loading indicator
+### 6. Add a loading indicator
 While waiting for the results from the image API to be returned and rendered, display a loading indicator. A spinner image can be found under the `public` directory. The spinner should be displayed at 100% of its size in the middle of the page.
 
 
