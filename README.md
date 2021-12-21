@@ -37,11 +37,11 @@ You're now ready to begin your tasks!
 Sharing running workspaces makes it possible to quickly look at a workspace together with a (remote) colleague [Gitpod Sharing Workspace](https://www.gitpod.io/docs/sharing-and-collaboration#sharing-running-workspaces).
 To share your workspace navigate to the workspaces page:
 
-#### 1. Move your mouse over the workspace you want to share (change the filter to All if you don’t see your workspace.
+### 1. Move your mouse over the workspace you want to share (change the filter to All if you don’t see your workspace.
 
-#### 2. Click the three dots menu to the right of the highlighted workspace.
+### 2. Click the three dots menu to the right of the highlighted workspace.
 
-#### 3. Click Share
+### 3. Click Share
 
 This marks your workspace as shared. When you open it, you can copy & share its URL.
 
@@ -51,14 +51,6 @@ Using the supplied API endpoint listed in the resources section below, fetch and
 
 Note: The project comes configured with [axios](https://www.npmjs.com/package/axios) as a helpful HTTP client, as well as [React Responsive Carousel](https://www.npmjs.com/package/react-responsive-carousel) to handle the core carousel functionality.
 
-### 2. Extend `Carousel` props
-Add props to the `ImageCarousel` component that controls the `showThumbs` and `showIndicators` props on the `Carousel` child component.
-
-In your use of the `ImageCarousel` component for Task 1, make sure the thumbnails are not visible, but the indicators are visible.
-
-### 4. Add a loading indicator
-While waiting for the results from the image API to be returned and rendered, display a loading indicator. A spinner image can be found under the `public` directory. The spinner should be displayed at 100% of its size in the middle of the page.
-
 ## Frontend Task
 ### 1. Style the `ImageCarousel` component
 Using the mockup included in the root level of the project, position and size the `ImageCarousel` component on the page, with considerations for how responsive it is on smaller screen sizes.
@@ -66,12 +58,19 @@ Using the mockup included in the root level of the project, position and size th
 ### 2. Add Navigation bar
 Make the navigation bar look similar to the mockup.jpg
 
-### 4. Response name and description 
-Make sure the names and description of the exact instead of {name} or {description}
+### 3. Extend `Carousel` props
+Add props to the `ImageCarousel` component that controls the `showThumbs` and `showIndicators` props on the `Carousel` child component.
 
-### 5. Toggle functionality 
+In your use of the `ImageCarousel` component for Task 1, make sure the thumbnails are not visible, but the indicators are visible.
+
+### 4. Response data
+Make sure the names and description of the image is displayed in your solution as shown in the image.
+
+### 5. Arrow keys functionality 
 Make the toggle work, the right arrow shoud go to the next image while its updates the number indicating which slide show the user is currently viewing and the left arrow should do the opposite of the right arrow
 
+### 5. Add a loading indicator
+While waiting for the results from the image API to be returned and rendered, display a loading indicator. A spinner image can be found under the `public` directory. The spinner should be displayed at 100% of its size in the middle of the page.
 
 
 ## Resources
