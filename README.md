@@ -75,3 +75,5 @@ While waiting for the results from the image API to be returned and rendered, di
 
 ## Resources
 - API Endpoint: `https://apodapi.herokuapp.com/search/?search_query=pluto&number=5`
+
+![image](https://user-images.githubusercontent.com/86728303/148115843-e09f2ef5-43a3-4727-aab0-bffbe2105824.png)
