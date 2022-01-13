@@ -59,7 +59,7 @@ Note: The project comes configured with [axios](https://www.npmjs.com/package/ax
 
 ### 2. Add Heading bar
 
-Make the heading bar look similar to the mockup.jpg.  There is a banner image in the `assets` folder.
+Make the heading bar look similar to the mockup.  There is a banner image in the `assets` folder.
 
 ### 3. Extend `Carousel` props
 
@@ -67,7 +67,7 @@ Add props to the `ImageCarousel` component that control the `showThumbs` and `sh
 
 ### 4. Response data
 
-Make sure the names and description of the image is displayed in your solution as shown in the image.
+Add the name and description of the image to the carousel.
 
 ### 5. Arrow keys functionality
 
@@ -79,10 +79,10 @@ While waiting for the results from the image API to be returned and rendered, di
 
 ### 7. Style the `ImageCarousel` component
 
-Using the mockup included in the root level of the project, position and size the `ImageCarousel` component on the page, with considerations for how responsive it is on smaller screen sizes.
+Using the included mockup, position and size the `ImageCarousel` component on the page, with considerations for how responsive it is on smaller screen sizes.
 
 ## Resources
 
-* API Endpoint: `https://apodapi.herokuapp.com/search/?search_query=pluto&number=5`
+* API Endpoint: `https://apodapi.herokuapp.com/api/?count=5`
 
 ![image](https://user-images.githubusercontent.com/86728303/148115843-e09f2ef5-43a3-4727-aab0-bffbe2105824.png)
