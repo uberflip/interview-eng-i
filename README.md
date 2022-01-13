@@ -8,7 +8,7 @@ This is a simple web application built to help developer candidates demonstrate 
 * [axios](https://www.npmjs.com/package/axios)
 * [React Responsive Carousel](https://www.npmjs.com/package/react-responsive-carousel)
 * [Gitpod](https://www.gitpod.io/)
-* [RestAPI](https://apodapi.herokuapp.com/search/?search_query=pluto&number=5)
+* [RestAPI](https://apodapi.herokuapp.com/)
 
 ## Getting Started
 
@@ -85,4 +85,4 @@ Using the included mockup, position and size the `ImageCarousel` component on th
 
 * API Endpoint: `https://apodapi.herokuapp.com/api/?count=5`
 
-![image](https://user-images.githubusercontent.com/86728303/148115843-e09f2ef5-43a3-4727-aab0-bffbe2105824.png)
+![Mockup](https://raw.githubusercontent.com/uberflip/interview-eng-i/main/mockup.png)
