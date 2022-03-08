@@ -67,7 +67,7 @@ Add props to the `ImageCarousel` component that control the `showThumbs` and `sh
 
 ### 4. Response data
 
-Add the name and description of the image to the carousel.
+Add the name and latin name of the image to the carousel.
 
 ### 5. Arrow keys functionality
 
@@ -83,6 +83,6 @@ Using the included mockup, position and size the `ImageCarousel` component on th
 
 ## Resources
 
-* API Endpoint: `https://apodapi.herokuapp.com/api/?count=5`
+* API Endpoint: `https://zoo-animal-api.herokuapp.com/animals/rand/5`
 
 ![Mockup](https://raw.githubusercontent.com/uberflip/interview-eng-i/main/mockup.png)
